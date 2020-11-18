@@ -1,6 +1,7 @@
-package jancok.agung;
+package com.pelajaran1;
 import java.util.Arrays;
-public class operasi_matrix {
+public class
+operasi_matrix {
     public static void main (String[]args) {
         int[][] matrix_a = {
                 {1, 2, 3},

@@ -1,6 +1,6 @@
-package jancok.agung;
+package com.pelajaran1;
 import java.util.Arrays;
-public class pembagian_matrix {
+public class  pembagian_matrix {
     public static void main (String[] args){
         int[][] matrix_1 = {
                 {10,12},
